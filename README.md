@@ -1,10 +1,13 @@
-# sistema-contatos-python
-Sistema simples de gerenciamento de contatos em Python com cadastro, consulta e remoção (CRUD).
+## Sobre o projeto
+Sistema simples de gerenciamento de contatos desenvolvido em Python.
 
 ## Funcionalidades
 - Cadastrar contatos
-- Consultar contatos (todos, por ID ou por atividade)
+- Consultar contatos
 - Remover contatos
 
-## Tecnologias
-- Python
+## Conceitos utilizados
+- Listas e dicionários
+- Estruturas de repetição
+- Funções
+- Lógica de programação
